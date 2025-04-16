@@ -26,7 +26,3 @@ networks:
 volumes:
   database_volume:
   data_folder:
-
-secrets:
-  db-password:
-    file: password.txt
